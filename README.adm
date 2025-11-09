@@ -51,4 +51,5 @@ The `EDA.ipynb` notebook contains the full process, but here are the key finding
 * **Data Analysis:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn, WordCloud
 * **Modeling (EDA):** Scikit-learn (K-Means, PCA)
+
 * **Environment:** Jupyter Notebook
