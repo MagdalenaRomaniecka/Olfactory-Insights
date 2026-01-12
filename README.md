@@ -3,8 +3,6 @@
 ## 🚀 View the Live Application!
 **The insights from this Exploratory Data Analysis (EDA) were used to build a fully deployed AI perfume recommender application.**
 
-[![Streamlit App](https://perfume-finder-app-btskyvq7eytc5ujrgzr2dk.streamlit.app/)
-
 [**➡️ Click here to try the "ScentSational" app**](https://perfume-finder-app-btskyvq7eytc5ujrgzr2dk.streamlit.app/)
 
 ---
